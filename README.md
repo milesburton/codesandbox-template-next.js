@@ -12,3 +12,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
 - [Next.js — GitHub](https://github.com/vercel/next.js/)
 - [Next.js — Docs](https://nextjs.org/docs)
+
+
+Pull requests merge automatically only after all checks pass.
